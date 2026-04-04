@@ -1,4 +1,4 @@
-# Hi, I'm Charles
+# Hello, I'm Charles
 
 Cyber Security student (FdSc) | Studying Cisco CCNA
 
