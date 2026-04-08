@@ -10,7 +10,9 @@ I share networking labs, Cisco Packet Tracer projects, and automation scripts.
 
 ## Environment 🖥️
 - Windows 11
-- Linux VM  
+- Linux VM
+- Cisco Packet Tracer
+- Visual Studio Code
 
 ## Interests 🎯
 - Networking
