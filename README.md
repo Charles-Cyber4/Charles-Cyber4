@@ -4,18 +4,18 @@ Cyber Security student (FdSc) | Studying Cisco CCNA
 
 I share networking labs, Cisco Packet Tracer projects, and automation scripts.
 
-## Languages
+## Languages 💻
 - Python
 - PowerShell  
 
-## Environment
+## Environment 🖥️
 - Windows 11
 - Linux VM  
 
-## Interests
+## Interests 🎯
 - Networking
-- cybersecurity
-- automation
+- Cybersecurity
+- Automation
 
-## You can reach me on  
+## Connect 🔗
 https://www.linkedin.com/in/charles-blackaby-2242ba27b/
