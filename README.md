@@ -1,9 +1,10 @@
 ## Hello, I'm Charles
 
 Cyber Security student (FdSc) | Studying Cisco CCNA
-
-I share networking labs, Cisco Packet Tracer projects, and automation scripts.
 Based in the United Kingdom
+
+## Projects & Labs 🧪
+Cisco Packet Tracer labs and automation scripts written in Python 3 and PowerShell 7.
 
 ## Languages 💻
 - Python
