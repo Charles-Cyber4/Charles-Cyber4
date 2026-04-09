@@ -9,7 +9,7 @@ I share networking labs, Cisco Packet Tracer projects, and automation scripts.
 - PowerShell  
 
 ## Environment 🖥️
-- Windows 11
+- Windows 11 Pro
 - Linux VM
 - Cisco Packet Tracer
 - Visual Studio Code
