@@ -3,6 +3,7 @@
 Cyber Security student (FdSc) | Studying Cisco CCNA
 
 I share networking labs, Cisco Packet Tracer projects, and automation scripts.
+Based in the United Kingdom
 
 ## Languages 💻
 - Python
