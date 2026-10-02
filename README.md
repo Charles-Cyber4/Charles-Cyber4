@@ -1,6 +1,6 @@
 ## Hello, I'm Charles
 
-Studying Cybersecurity student (FdSc) & Studying Cisco CCNA
+Cybersecurity student (FdSc) & Studying Cisco CCNA
 
 Based in the United Kingdom
 
