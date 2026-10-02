@@ -21,6 +21,7 @@ Cisco Packet Tracer labs and automation scripts written in Python 3 and PowerShe
 - Networking
 - Cybersecurity
 - Automation
+- Artificial intelligence (AI)/Machine learning (ML)
 
 ## Connect 🔗
 https://www.linkedin.com/in/charles-blackaby-2242ba27b/
