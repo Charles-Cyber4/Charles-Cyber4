@@ -18,8 +18,8 @@ Cisco Packet Tracer labs and automation scripts written in Python 3 and PowerShe
 - Visual Studio Code
 
 ## Interests 🎯
-- Networking
 - Cybersecurity
+- Networking
 - Automation
 - Artificial intelligence (AI)/Machine learning (ML)
 
